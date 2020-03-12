@@ -1,6 +1,8 @@
 # Budget-Allocation-Attribution-Model
 Attribution model of different marketing platform to optimise the investments.
 
+Reference Source: http://ailab.criteo.com/criteo-attribution-modeling-bidding-dataset/ 
+
 ## Dash Visualisation:
 
 ![Farmers Market Finder Demo](Dash-Visualisation.gif)
