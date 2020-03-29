@@ -14,7 +14,7 @@ Attribution model of different marketing platform to optimise the investments.
 The first touch attribution model works on a straightforward formula.
 When a visitor comes to your website for purchasing anything, the first medium/channel/touchpoint which the visitor uses to get to your site will get all the attributes of that sale.
 
-**How does First Click Attribution Model work?**</br></br></br>
+**How does First Click Attribution Model work?**</br>
 Let suppose you have a business that deals with selling laptops and computing accessories online. Like any business, you have implemented multiple tactics such as display ads on Google, Facebook, and email outreach your list, SEO, etc.
 A prospective visitor sees your Adwords ad and lands on your website for the first time. They might browse around, signup to your email newsletter, follow your Facebook page and leave.
 After a few days, they come back to your website and purchases your product.
