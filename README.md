@@ -1,4 +1,4 @@
-# Budget-Allocation-Attribution-Model
+# Budget Allocation Attribution Model
 Attribution model of different marketing platform to optimise the investments.
 
 ### [Dataset Source](http://ailab.criteo.com/criteo-attribution-modeling-bidding-dataset/)
