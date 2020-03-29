@@ -12,13 +12,14 @@ Attribution model of different marketing platform to optimise the investments.
 ### 1 – First Touch Attribution Model
 **What is First Click / Touch Attribution Model?**</br>
 The first touch attribution model works on a straightforward formula.
-When a visitor comes to your website for purchasing anything, the first medium/channel/touchpoint which the visitor uses to get to your site will get all the attributes of that sale.
+When a visitor comes to your website for purchasing anything, the first medium/channel/touchpoint which the visitor uses to get to your site will get all the attributes of that sale.</br>
 
 **How does First Click Attribution Model work?**</br>
 Let suppose you have a business that deals with selling laptops and computing accessories online. Like any business, you have implemented multiple tactics such as display ads on Google, Facebook, and email outreach your list, SEO, etc.
 A prospective visitor sees your Adwords ad and lands on your website for the first time. They might browse around, signup to your email newsletter, follow your Facebook page and leave.
 After a few days, they come back to your website and purchases your product.
 Though, they might not immediately make a purchase, and have interacted with other channels as well in the meanwhile ( email newsletter, Facebook page update), all the credit for this sale is attributed to Google Adwords, as it was the first click and interaction of your website with them.</br>
+
 **When to use and not to use First Click Attribution Model?**
 First Click Attribution Model works excellent when you are trying to identify which channel brings in the most leads or customers.
 From a content marketing perspective, First Click Attribution models help you determine the best channel which is creating awareness of your content or brand.
@@ -28,11 +29,13 @@ Similarly, First Click Attribution Model is least effective when you have multip
 ### 2 – Last Click Attribution Model
 **What is Last Click Attribution Model?**</br>
 In the last click attribution model, all credit is given to the last tactic marketing tactic/touch point after which the conversion happens.</br>
+
 **How does Last Click Attribution Model work?**</br>
 You are the owner of a mobile company and are highly active in all the key marketing channels to grab the attention of prospects looking to buy a new phone.
 In all those marketing processes a customer comes to your website using Facebook ad but then goes away for any reason.
 You or your marketing team would like to track and bring them back to your sales page through email campaigns, retargeting and more.
 And from all the tactics the last tactic after which the prospect is converted into a customer will be given all the credit for that sale. This could be your email campaign or even a direct visit to the website by the customer.</br>
+
 **When to use and not use the Last Click Attribution Model?**</br>
 Last Click Attribution Models are very useful in understanding high impact touch points in the bottom of your funnel. They help you know which channels are driving the most conversions.
 In fact, it is the go-to attribution model for analytics software like Google Analytics which gives all credit to the last touchpoint before a conversion or goal.
