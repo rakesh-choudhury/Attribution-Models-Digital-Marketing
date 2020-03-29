@@ -96,31 +96,31 @@ Having said that the first channel might be wrongly considered influential.
 
 
 # Dataset Description
-#### Timestamp:</br>
+**Timestamp:**</br>
 timestamp of the impression (starting from 0 for the first impression). The dataset is sorted according to timestamp.
 uid a unique user identifier
-#### Campaign:</br>
+**Campaign:**</br>
 a unique identifier for the campaign
-#### Conversion:</br>
+**Conversion:**</br>
 1 if there was a conversion in the 30 days after the impression (independently of whether this impression was last click or not)
-#### Conversion_Timestamp:</br>
+**Conversion_Timestamp:**</br>
 the timestamp of the conversion or -1 if no conversion was observed
-#### Conversion_id:</br>
+**Conversion_id:**</br>
 a unique identifier for each conversion (so that timelines can be reconstructed if needed). -1 if there was no conversion
-#### Attribution 1: </br>
+**Attribution 1:** </br>
 if the conversion was attributed to Criteo, 0 otherwise
-### Click 1:</br>
+**Click 1:**</br>
 if the impression was clicked, 0 otherwise
-### Click_pos:</br> 
+**Click_pos:**</br> 
 the position of the click before a conversion (0 for first-click)
-### Click_nb:</br>
+**Click_nb:**</br>
 number of clicks. More than 1 if there was several clicks before a conversion
-### Cost:</br>
+**Cost:**</br>
 the price paid by Criteo for this display (disclaimer: not the real price, only a transformed version of it)
-### CPO(Cost per order):</br>
+**CPO(Cost per order):**</br>
 the cost-per-order in case of attributed conversion (disclaimer: not the real price, only a transformed version of it)
-### Time_Since_Last_Click: </br>
+**Time_Since_Last_Click:** </br>
 the time since the last click (in s) for the given impression
-### Cat[1-9]: </br>
+**Cat[1-9]:** </br>
 contextual features associated to the display. Can be used to learn the click/conversion models. We do not disclose the meaning of these features but it is not relevant for this study. Each column is a categorical variable. In the experiments, they are mapped to a fixed dimensionality space using the Hashing Trick (see paper for reference).
 
