@@ -64,6 +64,7 @@ Then probably you retarget them to subscribe them to your blog and send them ema
 However, all without any conversion again.
 After some time the prospect stumbled on your website and purchased a shoe from you.
 In this condition, the organic search traffic gets the maximum edge because it was the last channel that assisted the customer towards conversion.</br>
+
 **When to use Time Decay Attribution Model?**</br>
 Time Decay Attribution Model is useful in understanding that which channels are driving conversions. It also helps in understanding that which channel is driving which activity and let you focus your marketing budget and efforts across them.
 Similar to the position based attribution model, Time Decay Attribution Models gives the least important focus on earlier channels that helped in creating awareness and demand.
