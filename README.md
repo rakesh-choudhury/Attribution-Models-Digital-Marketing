@@ -1,6 +1,8 @@
 # Budget Allocation Attribution Model
 Attribution model of different marketing platform to optimise the investments.
 
+Use the [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) to run the code.
+
 ### [Dataset Source](http://ailab.criteo.com/criteo-attribution-modeling-bidding-dataset/)
 
 ## Dash Visualisation:
