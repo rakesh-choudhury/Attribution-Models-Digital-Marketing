@@ -5,9 +5,44 @@ Use the [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) 
 
 ### [Dataset Source](http://ailab.criteo.com/criteo-attribution-modeling-bidding-dataset/)
 
+### Steps to run the application.
+* Upload the all_model_dash.py file to Gooogle colab.
+* Run the following code to install all Dash Component.</br>
+```
+!pip install dash  # The core dash backend
+!pip install dash-html-components  # HTML components
+!pip install dash-core-components  # Supercharged components
+!pip install dash-table  # Interactive DataTable component (new!)
+```
+* Run the following code to Install ngrok.
+```
+### Install ngrok
+!wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
+!unzip ngrok-stable-linux-amd64.zip
+```
+* Incase the Dash is not upto the latest vesrion then run the following:
+```
+!pip install dash==1.4.1  # The core dash backend
+!pip install dash-daq==0.2.1
+```
+* Run the following code to get the public url to run the application(Do not click or use the URL until the last step of code is run):
+```
+get_ipython().system_raw('./ngrok http 8050 &')
+
+! curl -s http://localhost:4040/api/tunnels | python3 -c \
+    "import sys, json; print(json.load(sys.stdin)['tunnels'][0]['public_url'])"
+```
+* Finally run the dash app using the following code:
+```
+### Run Dash app
+!python all_model_dash.py
+```
+* Now click on the generated public URL or copy paste on any browser to run the application.
+
+
 ## Dash Visualisation:
 
-![Farmers Market Finder Demo](Dash-Visualisation.gif)
+![Dash Visualisation](Dash-Visualisation.gif)
 
 ## Attribution Models
 
